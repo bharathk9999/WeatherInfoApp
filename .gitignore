@@ -27,32 +27,7 @@ proguard/
 # Log Files
 *.log
 
-# Android Studio Navigation editor temp files
-.navigation/
 
-# Android Studio captures folder
-captures/
-
-# IntelliJ
-*.iml
-.idea/workspace.xml
-.idea/tasks.xml
-.idea/gradle.xml
-.idea/assetWizardSettings.xml
-.idea/dictionaries
-.idea/libraries
-.idea/caches
-
-# Keystore files
-# Uncomment the following lines if you do not want to check your keystore files in.
-#*.jks
-#*.keystore
-
-# External native build folder generated in Android Studio 2.2 and later
-.externalNativeBuild
-
-# Google Services (e.g. APIs or Firebase)
-google-services.json
 
 # Freeline
 freeline.py
@@ -86,3 +61,12 @@ OpenWeatherUnitTest/obj/project.nuget.cache
 OpenWeatherN/obj/Debug/netstandard2.0/OpenWeatherN.assets.cache
 OpenWeatherN/obj/Debug/netstandard2.0/OpenWeatherN.csprojAssemblyReference.cache
 OpenWeatherN/obj/project.nuget.cache
+OpenWeatherN/obj/Debug/netstandard2.0/OpenWeatherN.assets.cache
+OpenWeatherN/obj/Debug/netstandard2.0/OpenWeatherN.csprojAssemblyReference.cache
+OpenWeatherN/obj/OpenWeatherN.csproj.nuget.dgspec.json
+OpenWeatherN/obj/project.assets.json
+OpenWeatherN/obj/project.nuget.cache
+OpenWeatherUnitTest/obj/Debug/netcoreapp3.1/OpenWeatherUnitTest.csprojAssemblyReference.cache
+OpenWeatherUnitTest/obj/OpenWeatherUnitTest.csproj.nuget.dgspec.json
+OpenWeatherUnitTest/obj/project.assets.json
+OpenWeatherUnitTest/obj/project.nuget.cache
