@@ -8,7 +8,8 @@ namespace OpenWeatherN
         private AppConstants()
         {
         }
-        public  string ApiKey = "643e999658849b4622d202e847220f80";
+
+        public const string ApiKey = "643e999658849b4622d202e847220f80";
         private static AppConstants instance = null;
         public static AppConstants Instance
         {

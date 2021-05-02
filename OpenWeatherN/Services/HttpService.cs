@@ -25,7 +25,7 @@ namespace OpenWeatherN.Services
         {
             try
             {
-                var apikey = AppConstants.Instance.ApiKey;
+                var apikey = AppConstants.ApiKey;
                 string url = $"{BaseUrl}{dataType}q={param}&appid={apikey}";
                 var httpResponse = await client.GetAsync(url);
                 if (httpResponse.IsSuccessStatusCode)
